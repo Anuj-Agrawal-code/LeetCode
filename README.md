@@ -33,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
