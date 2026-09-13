@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
