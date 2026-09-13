@@ -21,9 +21,11 @@ class Solution {
             {
                 if(reverseMap.containsKey(words[i]))
                     return false;
+
+                map.put(ch, words[i]);
+                reverseMap.put(words[i], ch);
             }    
-            map.put(ch, words[i]);
-            reverseMap.put(words[i], ch);
+            
         }
         return true;
     }
