@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
