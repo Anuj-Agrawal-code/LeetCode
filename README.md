@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0078-subsets) |
+| [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Backtracking
 |  |
 | ------- |
