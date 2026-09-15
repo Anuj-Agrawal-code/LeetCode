@@ -13,19 +13,13 @@ class Solution {
             ListNode prev = null;
             ListNode curr = head;
 
-            return rev(prev, curr);                        
-    }
-
-    public static ListNode rev(ListNode prev, ListNode curr)
-    {
-        if(curr == null)
+            while(curr != null)
+            {
+                ListNode next_node = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next_node;
+            }
             return prev;
-            
-        ListNode next_node = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = next_node;
-
-        return rev(prev, curr);
     }
 }
