@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Newton's Method
