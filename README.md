@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
