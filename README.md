@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0290-word-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
