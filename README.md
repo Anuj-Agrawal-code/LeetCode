@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,9 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
