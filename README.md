@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
