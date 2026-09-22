@@ -8,8 +8,7 @@ class Solution {
 
     for (int i = 0; i < n; i++) {
 
-        while (!stack.isEmpty() &&
-               temperatures[i] > temperatures[stack.peek()]) {
+        while (!stack.isEmpty() && temperatures[i] > temperatures[stack.peek()]) {
 
             int prev = stack.pop();
             arr[prev] = i - prev;
