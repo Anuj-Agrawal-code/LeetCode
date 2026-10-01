@@ -7,8 +7,7 @@ class Solution {
             minHeap.add(num);
 
             if (minHeap.size() > k) 
-                minHeap.poll();
-            
+                minHeap.poll();  
         }
 
         return minHeap.peek();
