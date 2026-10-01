@@ -3,7 +3,8 @@ class Solution {
 
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
-        for (int num : nums) {
+        for (int num : nums) 
+        {
             minHeap.add(num);
 
             if (minHeap.size() > k) 
