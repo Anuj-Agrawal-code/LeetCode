@@ -18,7 +18,7 @@ class Solution {
         return count;
     }
 
-    public static void dfs(char[][] grid, int row, int col)
+    public void dfs(char[][] grid, int row, int col)
     {
         if(row < 0 || row >= grid.length)
             return;
