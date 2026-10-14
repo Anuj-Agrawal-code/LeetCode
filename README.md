@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1652-defuse-the-bomb](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
