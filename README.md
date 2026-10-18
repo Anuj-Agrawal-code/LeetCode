@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0881-boats-to-save-people) |
