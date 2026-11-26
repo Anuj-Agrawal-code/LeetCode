@@ -1,51 +1,45 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = first(nums, target);
-        int last = last(nums, target) - 1;
+        int pos[] = new int[2];
+        int firstocc = -1;
+        int lastocc = -1;
 
-        if(first == nums.length || nums[first] != target)
-            return new int[]{-1,-1};
-        else
-            return new int[]{first,last}; 
-    }
-
-    public int first(int [] arr, int target)
-    {
-        int l = 0, r = arr.length - 1;
-        int ans = arr.length;
-
-        while(l <= r)
+        int left = 0;
+        int right = nums.length - 1;
+        while(left <= right)
         {
-            int mid = l + (r - l)/2;
+            int mid = left + (right - left)/2;
 
-            if(arr[mid] >= target)
-            {
-                ans = mid;
-                r = mid - 1;
-            }
+            if(nums[mid] < target)
+                left = mid + 1;
+            else if(nums[mid] > target)
+                right = mid - 1;
             else
-                l = mid + 1; 
+            {
+                firstocc = mid;
+                right = mid - 1;
+            }
         }
-        return ans;
-    }
 
-    public int last(int [] arr, int target)
-    {
-        int l = 0, r = arr.length - 1;
-        int ans = arr.length;
-
-        while(l <= r)
+        left = 0;
+        right = nums.length - 1;
+        while(left <= right)
         {
-            int mid = l + (r - l)/2;
+            int mid = left + (right - left)/2;
 
-            if(arr[mid] > target)
-            {
-                ans = mid;
-                r = mid - 1;
-            }
+            if(nums[mid] < target)
+                left = mid + 1;
+            else if(nums[mid] > target)
+                right = mid - 1;
             else
-                l = mid + 1; 
+            {
+                lastocc = mid;
+                left = mid + 1;
+            }
         }
-        return ans;
+        
+        pos[0] = firstocc;
+        pos[1] = lastocc;
+        return pos;
     }
 }
