@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
