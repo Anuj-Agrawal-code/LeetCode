@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anuj-Agrawal-code/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
